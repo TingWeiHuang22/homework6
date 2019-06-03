@@ -24,7 +24,7 @@
 ## Visual effects with any post-production software
 在此部分，我們利用After Effect CC這個後製軟體來對第二部影片進行後製，而After Effect這個後製軟體的操作流程則是從以下連結影片所學來的：<br><br>
 [連結]：https://www.youtube.com/watch?v=t6hgmRZZ4WE&fbclid=IwAR0viDbbr6cHeuIDEZvv8pUrx8CXnp3iQxAnNtzA4n_uCgFjId-a244jcIo <br><br>
-而第二部影片經過後製軟體所做出來的結果影片則是以下連結：https://www.youtube.com/watch?v=t6hgmRZZ4WE&fbclid=IwAR0viDbbr6cHeuIDEZvv8pUrx8CXnp3iQxAnNtzA4n_uCgFjId-a244jcIo <
+而第二部影片經過後製軟體所做出來的結果影片則是以下連結：https://www.youtube.com/watch?v=3iMWoA4aYBI&feature=youtu.be&fbclid=IwAR0gLJT36D8x7X--BxlecNTpGpJ6LepoBMIye2LPKqFBST38smk_HAqL5s4 <br><br>
  
 ## Compare above methods
 
