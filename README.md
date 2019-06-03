@@ -10,8 +10,8 @@
 第一部影片將會提供給第二部分的Visual effects with ORB-SLAM所使用，而第二部影片將會提供給第三部分的Visual effects with any post-production software所使用。<br><br>
 
 
-## Visual effects with ORB-SLAM                                                                                                           
-
+## Visual effects with ORB-SLAM  
+在此部分的話，吾組首先依照助教於HW6 github所提供的內容，安裝好ORB-SLAM2所需的相關要求，並且下載Monocular Examples中的TUM Dataset的fr1/xyz來進行測試。在確認利用此dataset來跑ORB-SLAM2有跑出確定的結果後，吾組旋即利用
 ## Visual effects with any post-production software
 
 ## Compare above methods
