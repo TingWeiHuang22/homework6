@@ -19,7 +19,7 @@
 <img src="https://github.com/TingWeiHuang22/homework6/blob/master/keyframes8.png" width="300" height="300"><br><br>
 而在執行玩ORB-SLAM2後，即可產生KeyFrameTrajectory.txt，如下圖所示：<br><br>
 <img src="https://github.com/TingWeiHuang22/homework6/blob/master/trajectory.png" width="300" height="300"><br><br>
-由KeyFrameTrajectory.txt的格式可以得知，它的每一個row共有7個值，第一個值為偵測出有Camera position的圖片名稱，接下來的7的值分別是與相機有關的參數(前三個值是與Camera的位置有關，後4個值吾組推測是與Camera的旋轉資訊有關)。
+由KeyFrameTrajectory.txt的格式可以得知，它的每一個row共有7個值，第一個值為偵測出有Camera position的圖片名稱，接下來的7的值分別是與相機有關的參數(前三個值是與Camera的位置有關，後4個值吾組推測是與Camera的旋轉資訊有關)。而在得知出現Camera position的圖片名稱後，吾組就在該Frame加入homework6的圖案，然後當Camera Position向右移動後，homework6的圖案標籤則會做相對應的向左移動，而若是超過邊界的字則不會顯示，以下為用第一部影片跑ORB-SLAM2所做出來的效果：https://www.youtube.com/watch?v=WFKWz-8dZ90&feature=youtu.be&fbclid=IwAR2HQZ9h6pLPlxxFN9LU5-vylOC96rJNDhhoS_esNaTSBrBBl7YmPl6fYGQ <br><br>
 
 ## Visual effects with any post-production software
 在此部分，我們利用After Effect CC這個後製軟體來對第二部影片進行後製，而After Effect這個後製軟體的操作流程則是從以下連結影片所學來的：<br><br>
