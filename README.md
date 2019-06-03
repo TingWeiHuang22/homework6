@@ -29,5 +29,17 @@
 而在後製軟體我們所增加的Visual effects主要有三個：第一個是吾組模擬實驗室的地面有出現一個超大蜘蛛、第二個則是模擬在一個電腦螢幕上面新增了有小小兵說Hello的圖案、第三個則是則是模擬有雷姆模型站在電腦主機上面!<br><br>
  
 ## Compare above methods
+在此部分先敘述ORB-SLAM2的優點為比較能理解底層的資訊(像是Camera Postion以及Rotate的相關資訊)<br>
+然而缺點的話則有以下幾點：<br>
+1. 若是相機參數調整不好，則在執行ORB-SLAM2的時候，很容易無法得到KeyFrame(即是Camera Position)的資訊<br>
+2. 若要使用自己的dataset 則還要rename到符合跑ORB-SLAM2所要求的格式命名<br>
+3. 插入圖片的時候，沒有User的Interface輔助，需要自己手動寫程式插入並且做相關的判斷<br><br>
+
+而Visual Effect這個後製軟體則有以下優點：<br>
+1. 有UI介面提供給使用者使用，並且可以自動追蹤影片的特徵點，並且產生Camera移動的軌跡<br>
+2. 從上述第二部影片後製的結果，可以看出吾組所加上的特效圖案更為擬真(如：真的有模擬出大蜘蛛趴在地板的樣子)<br>
+而Visual Effect這個後製軟體的缺點在於需要付費才能使用。<br>
+
+
 
 ## Special effects
