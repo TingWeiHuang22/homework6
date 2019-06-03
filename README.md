@@ -17,7 +17,7 @@
 <img src="https://github.com/TingWeiHuang22/homework6/blob/master/param.png" width="300" height="300"><br><br>
 即可讓吾組的Dataset在執行ORB-SLAM2時，能夠抓到相對應的KeyFrame Position，如下圖所示：<br><br>
 <img src="https://github.com/TingWeiHuang22/homework6/blob/master/keyframes8.png" width="300" height="300"><br><br>
-而在執行玩ORB-SLAM2後，即可產生KeyFrameTrajectory.txt以供接下來使用!<br>
+而在執行玩ORB-SLAM2後，即可產生KeyFrameTrajectory.txt
 ## Visual effects with any post-production software
 
 ## Compare above methods
