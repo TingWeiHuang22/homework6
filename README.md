@@ -19,6 +19,7 @@
 <img src="https://github.com/TingWeiHuang22/homework6/blob/master/keyframes8.png" width="300" height="300"><br><br>
 而在執行玩ORB-SLAM2後，即可產生KeyFrameTrajectory.txt，如下圖所示：<br><br>
 <img src="https://github.com/TingWeiHuang22/homework6/blob/master/trajectory.png" width="300" height="300"><br><br>
+由KeyFrameTrajectory.txt的格式可以得知，它的每一個row共有7個值，第一個值為偵測出有Camera position的圖片名稱，接下來的7的值分別是與相機有關的參數(前三個值是與Camera的位置有關，後4個值吾組推測是與Camera的旋轉資訊有關)。
 
 ## Visual effects with any post-production software
 
