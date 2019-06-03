@@ -25,6 +25,7 @@
 在此部分，我們利用After Effect CC這個後製軟體來對第二部影片進行後製，而After Effect這個後製軟體的操作流程則是從以下連結影片所學來的：<br><br>
 [連結]：https://www.youtube.com/watch?v=t6hgmRZZ4WE&fbclid=IwAR0viDbbr6cHeuIDEZvv8pUrx8CXnp3iQxAnNtzA4n_uCgFjId-a244jcIo <br><br>
 而第二部影片經過後製軟體所做出來的結果影片則是以下連結：https://www.youtube.com/watch?v=3iMWoA4aYBI&feature=youtu.be&fbclid=IwAR0gLJT36D8x7X--BxlecNTpGpJ6LepoBMIye2LPKqFBST38smk_HAqL5s4 <br><br>
+而在後製軟體我們所增加的Visual effects主要有三個：第一個是我組模擬實驗室的地面有出現一個超大蜘蛛、第二個則是模擬在一個電腦螢幕上面新增了有小小兵說Hello的圖案、第三個則是則是模擬有雷姆模型站在電腦主機上面!<br><br>
  
 ## Compare above methods
 
