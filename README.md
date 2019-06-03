@@ -14,8 +14,10 @@
 在此部分的話，吾組首先依照助教於HW6 github所提供的內容，安裝好ORB-SLAM2所需的相關要求，並且下載Monocular Examples中的TUM Dataset的fr1/xyz來進行測試。在確認利用此dataset來跑ORB-SLAM2有跑出確定的結果後，吾組旋即利用利用第一部影片來切frame，並且根據ORB-SLAM2所要求的命名來對切出來的frame命名，並且製作出跑ORB-SLAM2所需rgb.txt，而rgb.txt的格式如下圖所示：<br><br>
 <img src="https://github.com/TingWeiHuang22/homework6/blob/master/rgb.txt.png" width="300" height="300"><br><br>
 而在製作完rgb.txt並且切出相對應的frames的照片要跑完ORB-SLAM2後，發現在執行的過程中會一直找不出KeyFrame Position(即是Camera Position)，後來經過相關測試後，發現是相機參數沒有調整好才會出現這個問題。而經過吾組多方嘗試參數的調整後，以下附圖的參數：<br><br>
+<img src="https://github.com/TingWeiHuang22/homework6/blob/master/param.png" width="300" height="300"><br><br>
+即可讓吾組的Dataset在執行ORB-SLAM2時，能夠抓到相對應的KeyFrame Position，如下圖所示：<br><br>
 <img src="https://github.com/TingWeiHuang22/homework6/blob/master/keyframes8.png" width="300" height="300"><br><br>
-即可讓吾組的Dataset在執行ORB-SLAM2時，能夠抓到相對應的KeyFrame Position，並且產生KeyFrameTrajectory.txt以供後續使用!<
+而在執行玩ORB-SLAM2後，即可產生KeyFrameTrajectory.txt以供接下來使用!<br>
 ## Visual effects with any post-production software
 
 ## Compare above methods
