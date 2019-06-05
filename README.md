@@ -45,3 +45,5 @@
 
 
 ## Special effects
+在此部分吾組所做的Special effects為 Zoom-in以及Zoom-out，以下為影片連結：https://www.youtube.com/watch?v=zLd3F6CnwaA&feature=youtu.be&fbclid=IwAR3hLxotHmzoD6y0iHsZo9VyHLw8G9OP0vq3_zshSOfrkO9gLgFyHv0o9vU <br><br>
+從影片可以得知當我們把鏡頭拉近(camera z方向的位移量為正)的時候，Homework6的字體會變大，反之把鏡頭拉遠(camera z方向的位移量為負數)的時候，Homework6的字體會變小。<br><br>
